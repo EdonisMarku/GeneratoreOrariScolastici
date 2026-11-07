@@ -1,0 +1,47 @@
+@startgantt
+Project starts 2026-10-14
+language it
+title Calendario delle Attività - WBS Generatore Orari Scolastici
+
+' Team: Testini Matteo Carlo (Project Manager), Gorreja Polizoi, Marku Edonis
+
+-- Fase 0: Pianificazione --
+[0.1 Analisi dei requisiti (Tutti)] as [0.1] starts 2026-10-14 and ends 2026-10-16 and is colored in #7030A0
+[0.2 Progettazione dei dati (Tutti)] as [0.2] starts 2026-10-16 and ends 2026-10-26 and is colored in #7030A0
+[0.3 WBS e calendario (Tutti)] as [0.3] starts 2026-10-16 and ends 2026-10-26 and is colored in #7030A0
+
+-- Fase 1: Importazione dati e modello --
+[1.1 Classi del modello (Testini)] as [1.1] starts 2026-10-27 and ends 2026-10-27 and is colored in #0099FF
+[1.2 Lettura e parsing del CSV (Testini)] as [1.2] starts 2026-10-27 and ends 2026-10-27 and is colored in #0099FF
+[1.3 Validazione e errori (Testini, Marku)] as [1.3] starts 2026-10-28 and ends 2026-10-30 and is colored in #0099FF
+[1.4 Riepilogo dati importati (Testini, Gorreja)] as [1.4] starts 2026-10-30 and ends 2026-10-31 and is colored in #0099FF
+[1.5 File CSV di prova (Marku)] as [1.5] starts 2026-10-31 and ends 2026-10-31 and is colored in #0099FF
+
+-- Fase 2: Generatore e vincoli obbligatori --
+[2.1 Generatore base (Testini)] as [2.1] starts 2026-10-28 and ends 2026-10-31 and is colored in #00A86B
+[2.2 Rilevamento sovrapposizioni (Testini)] as [2.2] starts 2026-11-01 and ends 2026-11-03 and is colored in #00A86B
+[2.3 Vincoli obbligatori (Testini)] as [2.3] starts 2026-11-03 and ends 2026-11-07 and is colored in #00A86B
+[2.4 Caso senza soluzione (Testini)] as [2.4] starts 2026-11-07 and ends 2026-11-09 and is colored in #00A86B
+
+-- Fase 3: Interfaccia grafica --
+[3.1 Bozza grafica Swing (Gorreja)] as [3.1] starts 2026-10-27 and ends 2026-10-28 and is colored in #E67E22
+[3.2 Finestra principale (Gorreja)] as [3.2] starts 2026-10-31 and ends 2026-11-01 and is colored in #E67E22
+[3.3 Tabella settimanale (Gorreja)] as [3.3] starts 2026-11-01 and ends 2026-11-08 and is colored in #E67E22
+[3.4 Generazione ed errori (Gorreja)] as [3.4] starts 2026-11-08 and ends 2026-11-11 and is colored in #E67E22
+
+-- Fase 4: Vincoli avanzati --
+[4.1 Vincoli avanzati (Testini)] as [4.1] starts 2026-11-07 and ends 2026-11-10 and is colored in #E74C3C
+[4.2 Configurazione vincoli (Marku)] as [4.2] starts 2026-11-07 and ends 2026-11-13 and is colored in #E74C3C
+[4.3 Preferenze non soddisfatte (Gorreja)] as [4.3] starts 2026-11-10 and ends 2026-11-13 and is colored in #E74C3C
+
+-- Fase 5: Test, export e documentazione --
+[5.1 Esportazione CSV (Marku)] as [5.1] starts 2026-10-31 and ends 2026-11-06 and is colored in #4A69BD
+[5.2 Collaudo (Marku, Tutti)] as [5.2] starts 2026-11-13 and ends 2026-11-15 and is colored in #4A69BD
+[5.3 UML e architettura (Marku)] as [5.3] starts 2026-10-27 and ends 2026-11-12 and is colored in #4A69BD
+[5.4 Relazione algoritmo (Testini)] as [5.4] starts 2026-11-11 and ends 2026-11-13 and is colored in #4A69BD
+[5.5 Presentazione applicativo (Gorreja)] as [5.5] starts 2026-11-13 and ends 2026-11-15 and is colored in #4A69BD
+[5.6 Trascrizione IA e consegna (Tutti)] as [5.6] starts 2026-11-15 and ends 2026-11-16 and is colored in #4A69BD
+
+' Milestone di consegna finale
+[Consegna finale ordinaria] happens 2026-11-16
+@endgantt

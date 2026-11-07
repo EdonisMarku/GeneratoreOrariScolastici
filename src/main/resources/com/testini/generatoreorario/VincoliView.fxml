@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox alignment="TOP_CENTER" prefHeight="360.0" prefWidth="460.0" spacing="15.0" style="-fx-background-color: #2b2b2b;" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.testini.generatoreorario.GUI.VincoliController">
+    <stylesheets>
+        <URL value="@styles.css" />
+    </stylesheets>
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+
+    <Label fx:id="labelVincoli" text="Scegli i vincoli" textFill="#ff5555">
+      <font>
+         <Font name="System Bold" size="22.0" />
+      </font>
+    </Label>
+
+<!--    Vincoli prima/ultima ora-->
+    <HBox alignment="CENTER" prefHeight="21.0" prefWidth="360.0">
+        <Label fx:id="primaOra" text="Può insegnare alla prima ora: " textFill="white" />
+        <Separator opacity="0.0" prefHeight="21.0" prefWidth="32.0" />
+        <CheckBox fx:id="primaOraCheck" />
+    </HBox>
+    <HBox alignment="CENTER" prefHeight="30.0" prefWidth="360.0">
+        <Label fx:id="ultimaOra" text="Può insegnare all'ultima ora: " textFill="white" />
+        <Separator opacity="0.0" prefHeight="21.0" prefWidth="29.0" />
+        <CheckBox fx:id="ultimaOraCheck" />
+    </HBox>
+
+<!--    Vincoli ore consecutive/non-->
+    <HBox alignment="CENTER" prefHeight="23.0" prefWidth="360.0">
+        <Label fx:id="oreCons" text="Ore minime consecutive: " textFill="white" />
+        <Separator opacity="0.0" prefHeight="18.0" prefWidth="56.0" />
+        <Spinner fx:id="oreConsecSlider" editable="true" prefHeight="26.0" prefWidth="70.0" />
+    </HBox>
+    <HBox alignment="CENTER" layoutX="30.0" layoutY="204.0" prefHeight="23.0" prefWidth="360.0">
+        <Label fx:id="oreConsMax" text="Ore massime consecutive: " textFill="white" />
+        <Separator opacity="0.0" prefHeight="18.0" prefWidth="48.0" />
+        <Spinner fx:id="oreConsMaxSpinner" editable="true" prefHeight="26.0" prefWidth="70.0" />
+    </HBox>
+    <HBox alignment="CENTER" prefHeight="34.0" prefWidth="360.0">
+        <Label fx:id="maxOreGiornoLabel" text="Ore massime per giorno:" textFill="white" />
+        <Separator opacity="0.0" prefHeight="4.0" prefWidth="20.0" />
+        <ComboBox fx:id="maxOreGiornoCB" prefHeight="26.0" prefWidth="110.0" />
+        <Separator opacity="0.0" prefHeight="9.0" prefWidth="15.0" />
+        <Spinner fx:id="maxOreGiornoSpinner" prefHeight="26.0" prefWidth="65.0" />
+    </HBox>
+
+    <Separator opacity="0.0" orientation="VERTICAL" prefHeight="10.0" />
+
+    <Button onAction="#onChiudi" prefHeight="30.0" prefWidth="130.0" styleClass="modificavincoli-button" text="Salva e Chiudi" />
+</VBox>

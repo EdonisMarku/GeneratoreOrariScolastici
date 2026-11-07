@@ -1,0 +1,680 @@
+docente;anno;sezione;indirizzo;materia;ore
+A015D;3;A;SSS;Igiene;3
+A026I;3;B;MAT;Matematica;3
+A040 z;4;A;INFO;TELECOMUNICAZIONI;3
+A040R;3;B;MAT;Tec.elettriche;3
+A040R;4;A;MAT;Tec.elettriche;4
+A040R;4;B;MAT;Tec.elettriche;4
+A046 G;4;B;AFM;ECON. POL.;2
+Acquistapace Elisa;1;A;TUR;INGLESE;3
+Acquistapace Elisa;2;B;TUR;INGLESE;3
+Acquistapace Elisa;4;A;TUR;INGLESE;3
+Acquistapace Elisa;5;B;INFO;INGLESE;3
+Andreani;4;A;SSS;Igiene;4
+Aramini;2;A;MAT;Scienze motorie;2
+Aramini;3;A;MAT;Scienze motorie;2
+Aramini;3;B;MAT;Scienze motorie;2
+Aramini;4;A;MAT;Scienze motorie;2
+Aramini;4;A;SSS;Scienze motorie;2
+Aramini;4;B;MAT;Scienze motorie;2
+Aramini;5;A;SSS;Scienze motorie;2
+Attardo Giuseppe;3;A;CAT;GEOPEDOLOGIA;3
+Attardo Giuseppe;4;A;CAT;ESTIMO;4
+Attardo Giuseppe;5;A;CAT;ESTIMO;4
+Azzolina;1;B;SSS;Inglese;3
+Azzolina;2;C;SSS;Inglese;3
+Azzolina;5;A;SSS;Inglese;2
+B003 - LAB. DI FISICA;1;A;CAT;FISICA;1
+B003 - LAB. DI FISICA;1;A;INFO;FISICA;1
+B003 - LAB. DI FISICA;2;A;CAT;FISICA;1
+B003 - LAB. DI FISICA;2;A;INFO;FISICA;1
+B003 - LAB. DI FISICA;2;B;INFO;FISICA;1
+Baraglia;1;A;MAT;Religione;1
+Baraglia;1;A;SSS;Religione;1
+Baraglia;1;B;SSS;Religione;1
+Baraglia;2;A;MAT;Religione;1
+Baraglia;2;A;SSS;Religione;1
+Baraglia;2;B;SSS;Religione;1
+Baraglia;2;C;SSS;Religione;1
+Baraglia;3;A;MAT;Religione;1
+Baraglia;3;A;SSS;Religione;1
+Baraglia;3;B;MAT;Religione;1
+Baraglia;3;B;SSS;Religione;1
+Baraglia;3;C;SSS;Religione;1
+Baraglia;4;A;MAT;Religione;1
+Baraglia;4;A;SSS;Religione;1
+Baraglia;4;B;MAT;Religione;1
+Baraglia;4;B;SSS;Religione;1
+Baraglia;5;A;MAT;Religione;1
+Baraglia;5;A;SSS;Religione;1
+Baraiolo Cesare;1;A;SSS;Tedesco;2
+Baraiolo Cesare;1;B;SSS;Tedesco;2
+Baraiolo Cesare;2;A;SSS;Tedesco;2
+Baraiolo Cesare;3;A;SIA;TEDESCO;3
+Barini Fabrizio;3;A;INFO;TELECOMUNICAZIONI;3
+Barini Fabrizio;3;A;MAT;Tec.elettriche;5
+Barini Fabrizio;3;B;INFO;TELECOMUNICAZIONI;3
+Barini Fabrizio;4;A;INFO;TELECOMUNICAZIONI;3
+Barini Fabrizio;5;A;MAT;Tec.elettriche;4
+Barni Michele;1;A;AFM;FISICA;2
+Barni Michele;1;A;TUR;FISICA;2
+Barni Michele;1;B;AFM;FISICA;2
+Barni Michele;2;A;CAT;FISICA;3
+Barni Michele;2;A;INFO;FISICA;3
+Barni Michele;2;B;INFO;FISICA;3
+Bellarini Nadia;3;A;TUR;STORIA DELL'ARTE;2
+Bellarini Nadia;3;B;TUR;STORIA DELL'ARTE;2
+Bellarini Nadia;4;A;TUR;STORIA DELL'ARTE;2
+Bellarini Nadia;4;B;TUR;STORIA DELL'ARTE;2
+Bellarini Nadia;5;A;TUR;STORIA DELL'ARTE;2
+Bertini Arianna;1;A;AFM;SCIENZE MOTORIE;2
+Bertini Arianna;1;A;TUR;SCIENZE MOTORIE;2
+Bertini Arianna;1;B;AFM;SCIENZE MOTORIE;2
+Bertini Arianna;2;A;AFM;SCIENZE MOTORIE;2
+Bertini Arianna;2;A;TUR;SCIENZE MOTORIE;2
+Bertini Arianna;2;B;AFM;SCIENZE MOTORIE;2
+Bertini Arianna;3;A;TUR;SCIENZE MOTORIE;2
+Bertini Arianna;4;A;TUR;SCIENZE MOTORIE;2
+Bertini Arianna;4;B;AFM;SCIENZE MOTORIE;2
+Bongini Claudio;4;A;INFO;INFORMATICA;6
+Bongini Claudio;5;A;INFO;INFORMATICA;6
+Bongini Claudio;5;B;INFO;INFORMATICA;6
+Bongini Jessica;1;B;AFM;TEDESCO;3
+Bongini Jessica;2;A;TUR;TEDESCO;3
+Bongini Jessica;2;B;AFM;TEDESCO;3
+Bongini Jessica;3;A;AFM;TEDESCO;3
+Bongini Jessica;3;B;TUR;TEDESCO;3
+Bongini Jessica;4;B;TUR;TEDESCO;3
+Bongio Elena;2;A;INFO;INGLESE;3
+Bongio Elena;2;B;INFO;INGLESE;3
+Bongio Elena;3;A;AFM;INGLESE;3
+Bongio Elena;4;A;INFO;INGLESE;3
+Bonodeo Simona;1;A;CAT;Fondamenti prog. edilizia;4
+Borellini Lia;1;B;TUR;ITALIANO;6
+Borellini Lia;3;A;CAT;ITALIANO;6
+Borellini Lia;5;A;CAT;ITALIANO;6
+Borsi Michela;1;B;TUR;SCIENZE;2
+Borsi Michela;2;A;CAT;SCIENZE;2
+Borsi Michela;2;A;INFO;SCIENZE;2
+Borsi Michela;2;B;INFO;SCIENZE;2
+Botta' Stefania;1;A;CAT;INGLESE;3
+Botta' Stefania;2;A;CAT;INGLESE;3
+Botta' Stefania;2;B;AFM;INGLESE;3
+Botta' Stefania;3;A;CAT;INGLESE;3
+Botta' Stefania;4;A;CAT;INGLESE;3
+Botta' Stefania;5;A;CAT;INGLESE;3
+Bufano Pasqua;3;A;INFO;SISTEMI;4
+Bufano Pasqua;3;B;INFO;SISTEMI;4
+Bufano Pasqua;3;B;INFO;TPSIT;3
+Bufano Pasqua;4;A;INFO;SISTEMI;4
+Bufano Pasqua;4;A;INFO;TPSIT;3
+Buzzella Giulia;1;B;TUR;TEDESCO;3
+Buzzella Giulia;2;B;SSS;Tedesco;2
+Buzzella Giulia;2;C;SSS;Tedesco;2
+Callina Maria Cristina;1;A;INFO;INGLESE;3
+Callina Maria Cristina;3;A;INFO;INGLESE;3
+Callina Maria Cristina;3;B;TUR;INGLESE;3
+Callina Maria Cristina;5;A;INFO;INGLESE;3
+Cambiaghi;2;A;SSS;Scienze umane;4
+Cambiaghi;4;A;SSS;Psicologia;5
+Cambiaghi;5;A;SSS;Psicologia;5
+Cambiaghi;5;B;SSS;Psicologia;4
+Cantoro Sara;1;A;CAT;TEC. INFORMATICHE;2
+Cantoro Sara;1;A;INFO;SCIENZE E TEC. APPL.;2
+Cantoro Sara;3;A;INFO;TPSIT;1
+Cantoro Sara;4;A;INFO;TPSIT;2
+Cantoro Sara;5;A;SIA;ECONOMIA AZ.;1
+Capalbo Immacolata;1;A;AFM;INFORMATICA;2
+Capalbo Immacolata;1;A;TUR;INFORMATICA;2
+Capalbo Immacolata;1;B;AFM;INFORMATICA;2
+Capalbo Immacolata;1;B;TUR;INFORMATICA;2
+Capalbo Immacolata;2;A;AFM;INFORMATICA;2
+Capalbo Immacolata;2;A;TUR;INFORMATICA;2
+Capalbo Immacolata;2;B;AFM;INFORMATICA;2
+Capalbo Immacolata;2;B;TUR;INFORMATICA;2
+Cattaneo Sara;1;A;TUR;FRANCESE;3
+Cattaneo Sara;1;B;TUR;FRANCESE;3
+Cattaneo Sara;2;A;TUR;FRANCESE;3
+Cattaneo Sara;2;B;TUR;FRANCESE;3
+Cattaneo Sara;3;A;TUR;FRANCESE;3
+Cattaneo Sara;3;B;TUR;FRANCESE;3
+Cattaneo Sara;5;A;TUR;FRANCESE;3
+Centonze Marco;1;A;INFO;DIRITTO;2
+Centonze Marco;1;A;MAT;Diritto;2
+Centonze Marco;1;A;SSS;Diritto;2
+Centonze Marco;1;B;SSS;Diritto;2
+Centonze Marco;2;A;MAT;Diritto;2
+Centonze Marco;2;A;SSS;Diritto;2
+Centonze Marco;2;B;SSS;Diritto;2
+Centonze Marco;2;C;SSS;Diritto;2
+Centonze Marco;4;B;SSS;Tecnica dello sport;1
+Centonze Marco;5;B;SSS;Tecnica dello sport;1
+Cernuto Antonio;1;A;CAT;CHIMICA;1
+Cernuto Antonio;1;A;INFO;CHIMICA;1
+Cernuto Antonio;1;A;MAT;Scienze-Chimica;1
+Cernuto Antonio;1;A;MAT;Scienze-Fisica;1
+Cernuto Antonio;1;A;SSS;Scienze integrate;2
+Cernuto Antonio;1;B;SSS;Scienze integrate;2
+Cernuto Antonio;2;A;CAT;CHIMICA;1
+Cernuto Antonio;2;A;INFO;CHIMICA;1
+Cernuto Antonio;2;A;MAT;Scienze-Chimica;1
+Cernuto Antonio;2;A;MAT;Scienze-Fisica;1
+Cernuto Antonio;2;A;SSS;Scienze integrate;2
+Cernuto Antonio;2;B;INFO;CHIMICA;1
+Cernuto Antonio;2;B;SSS;Scienze integrate;2
+Cernuto Antonio;2;C;SSS;Scienze integrate;2
+Ciccarello Giacoma;1;A;TUR;MATEMATICA;4
+Ciccarello Giacoma;1;B;TUR;MATEMATICA;4
+Ciccarello Giacoma;4;A;SIA;MATEMATICA;3
+Ciccarello Giacoma;5;A;TUR;MATEMATICA;3
+Ciocchini Annalisa;1;A;AFM;INGLESE;3
+Ciocchini Annalisa;2;A;AFM;INGLESE;3
+Ciocchini Annalisa;3;B;INFO;INGLESE;3
+Ciocchini Annalisa;5;A;TUR;INGLESE;3
+Colletti;1;B;SSS;Tecnica dello sport;1
+Colletti;2;B;SSS;Tecnica dello sport;1
+Colletti;2;C;SSS;Tecnica dello sport;1
+Colletti;3;A;SSS;Psicologia;5
+Colletti;3;B;SSS;Tecnica dello sport;1
+Colletti;3;C;SSS;Psicologia;4
+Colletti;3;C;SSS;Tecnica dello sport;1
+Colletti;4;B;SSS;Psicologia;4
+Colletti;4;B;SSS;Tecnica dello sport;1
+Colletti;5;B;SSS;Tecnica dello sport;1
+Cusini Adele;1;A;INFO;SCIENZE MOTORIE;2
+Cusini Adele;2;A;INFO;SCIENZE MOTORIE;2
+Cusini Adele;3;A;AFM;SCIENZE MOTORIE;2
+Cusini Adele;3;A;INFO;SCIENZE MOTORIE;2
+Cusini Adele;3;A;SIA;SCIENZE MOTORIE;2
+Cusini Adele;4;A;SIA;SCIENZE MOTORIE;2
+Cusini Adele;5;A;AFM;SCIENZE MOTORIE;2
+Cusini Adele;5;A;INFO;SCIENZE MOTORIE;2
+Cusini Adele;5;A;SIA;SCIENZE MOTORIE;2
+Cusini Adele;5;A;TUR;SCIENZE MOTORIE;2
+Cuzzucoli Giusy;1;A;AFM;ECONOMIA AZ.;2
+Cuzzucoli Giusy;2;A;AFM;ECONOMIA AZ.;2
+Cuzzucoli Giusy;4;B;AFM;ECONOMIA AZ.;7
+Cuzzucoli Giusy;5;A;SIA;ECONOMIA AZ.;7
+Davare Manuel;1;A;TUR;ITALIANO;6
+Davare Manuel;2;B;TUR;ITALIANO;6
+Davare Manuel;4;A;TUR;ITALIANO;6
+De Luca Domenico;3;A;MAT;Tec.elettriche;3
+De Luca Domenico;3;B;MAT;Tec.elettriche;3
+De Luca Domenico;4;B;MAT;Tec.elettriche;3
+De Luca Michelina;2;A;SSS;Matematica;4
+De Luca Michelina;4;A;SSS;Matematica;3
+De Meo;1;A;MAT;Matematica;4
+De Meo;2;A;MAT;Matematica;4
+De Meo;2;C;SSS;Matematica;4
+De Meo;3;A;MAT;Matematica;3
+De Meo;3;C;SSS;Matematica;3
+Del Nero Davide;3;B;TUR;ITALIANO;6
+Del Nero Davide;4;B;AFM;ITALIANO;6
+Del Nero Davide;5;A;INFO;ITALIANO;6
+Della Matera;1;A;SSS;Tec. inf. com.;2
+Della Matera;1;B;SSS;Tec. inf. com.;2
+Della Matera;2;A;MAT;Tec. inf. com.;2
+Della Matera;2;A;SSS;Tec. inf. com.;2
+Della Matera;2;B;SSS;Tec. inf. com.;2
+Della Matera;2;C;SSS;Tec. inf. com.;2
+Della Morte;1;A;SSS;Scienze motorie;2
+Della Morte;1;B;SSS;Scienze motorie;2
+Della Morte;2;A;SSS;Scienze motorie;2
+Della Morte;2;B;SSS;Scienze motorie;2
+Della Morte;2;C;SSS;Scienze motorie;2
+Della Morte;2;C;SSS;Tecnica dello sport;2
+Della Morte;3;A;SSS;Scienze motorie;2
+Della Morte;3;C;SSS;Scienze motorie;2
+Della Morte;3;C;SSS;Tecnica dello sport;2
+Evangelisti;3;B;SSS;Igiene;4
+Evangelisti;3;B;SSS;Tecnica dello sport;1
+Evangelisti;3;C;SSS;Igiene;4
+Evangelisti;3;C;SSS;Tecnica dello sport;1
+Evangelisti;5;A;SSS;Igiene;4
+Evangelisti;5;B;SSS;Igiene;4
+Falcinella Cesare;5;A;MAT;Scienze motorie;2
+Fallini Laura;1;A;INFO;ITALIANO;6
+Fallini Laura;1;B;AFM;STORIA;2
+Fallini Laura;2;B;INFO;ITALIANO;6
+Fallini Laura;3;B;INFO;ITALIANO;6
+Fallini Marina;2;A;AFM;ITALIANO;6
+Fallini Marina;3;A;AFM;ITALIANO;6
+Fallini Marina;3;A;TUR;ITALIANO;6
+Fazzone Michele;3;A;SIA;INFORMATICA;2
+Fazzone Michele;4;A;SIA;INFORMATICA;2
+Fazzone Michele;4;B;AFM;INFORMATICA;2
+Fazzone Michele;5;A;SIA;INFORMATICA;2
+Fiorini Alex;1;A;CAT;TEC. INFORMATICHE;3
+Fiorini Alex;1;A;MAT;Tec. inf. com.;2
+Fiorini Alex;4;B;AFM;INFORMATICA;2
+Fontana Anselmo;2;A;CAT;STA;3
+Fontana Anselmo;3;A;CAT;PROG.COST.IMP.;7
+Franzi Nino;1;A;AFM;FRANCESE;3
+Franzi Nino;1;B;AFM;FRANCESE;3
+Franzi Nino;2;A;AFM;FRANCESE;3
+Franzi Nino;3;A;AFM;FRANCESE;3
+Franzi Nino;3;A;SIA;FRANCESE;3
+Franzi Nino;4;A;AFM;FRANCESE;3
+Franzi Nino;4;A;TUR;FRANCESE;3
+Franzi Nino;4;B;AFM;FRANCESE;3
+Franzi Nino;5;A;AFM;FRANCESE;3
+Gallo Katia;2;B;AFM;ITALIANO;6
+Gallo Katia;3;A;INFO;ITALIANO;6
+Gallo Katia;5;B;INFO;ITALIANO;6
+Gallo Rosita;2;A;CAT;ITALIANO;6
+Gallo Rosita;4;A;AFM;ITALIANO;6
+Gallo Rosita;4;B;TUR;ITALIANO;6
+Giannone Giovanni;2;A;TUR;DISC.TURISTICHE E AZ.;2
+Giannone Giovanni;3;A;TUR;DISC.TURISTICHE E AZ.;4
+Giannone Giovanni;4;A;TUR;DISC.TURISTICHE E AZ.;4
+Giannone Giovanni;4;B;TUR;DISC.TURISTICHE E AZ.;4
+Giannone Giovanni;5;A;TUR;DISC.TURISTICHE E AZ.;4
+Girolo Ricky;3;A;INFO;INFORMATICA;3
+Girolo Ricky;4;A;INFO;INFORMATICA;3
+Girolo Ricky;4;A;MAT;Tec. Inst. e Man.;5
+Girolo Ricky;5;A;INFO;INFORMATICA;4
+Girolo Ricky;5;A;INFO;TPSIT;3
+Girolo Ricky;5;A;MAT;Tec. Inst. e Man.;5
+Girolo Ricky;5;B;INFO;INFORMATICA;4
+Girolo Ricky;5;B;INFO;TPSIT;3
+Gusmeroli Maria Cristina;1;B;TUR;INGLESE;3
+Gusmeroli Maria Cristina;3;A;SIA;INGLESE;3
+Gusmeroli Maria Cristina;4;A;SIA;INGLESE;3
+Gusmeroli Maria Cristina;4;B;AFM;INGLESE;3
+Gusmeroli Maria Cristina;4;B;TUR;INGLESE;3
+Gusmeroli Maria Cristina;5;A;TUR;TEDESCO;3
+Interbartolo Giulia;1;A;AFM;ITALIANO;6
+Interbartolo Giulia;1;A;CAT;ITALIANO;6
+Interbartolo Giulia;2;A;INFO;ITALIANO;6
+Iorio Patrizia;3;A;CAT;PROG.COST.IMP.;5
+Iorio Patrizia;4;A;CAT;ESTIMO;2
+Iorio Patrizia;4;A;CAT;PROG.COST.IMP.;5
+Iorio Patrizia;5;A;CAT;ESTIMO;2
+Iorio Patrizia;5;A;CAT;PROG.COST.IMP.;5
+Iossi Vincenzo;1;A;TUR;GEOGRAFIA;3
+Iossi Vincenzo;1;B;AFM;GEOGRAFIA;3
+Iossi Vincenzo;2;A;TUR;GEOGRAFIA;3
+Iossi Vincenzo;2;B;AFM;GEOGRAFIA;3
+Iossi Vincenzo;3;A;TUR;GEOGRAFIA;2
+Iossi Vincenzo;4;A;TUR;GEOGRAFIA;2
+Iossi Vincenzo;5;A;TUR;GEOGRAFIA;2
+Lo Tauro Orazio;1;B;TUR;SCIENZE MOTORIE;2
+Lo Tauro Orazio;2;B;TUR;SCIENZE MOTORIE;2
+Lo Tauro Orazio;3;B;TUR;SCIENZE MOTORIE;2
+Lo Tauro Orazio;4;A;INFO;SCIENZE MOTORIE;2
+Lo Tauro Orazio;4;B;TUR;SCIENZE MOTORIE;2
+Longo Marzia R.;3;A;SIA;ITALIANO;6
+Longo Marzia R.;4;A;CAT;ITALIANO;6
+Longobardi;4;B;MAT;Tec. Meccaniche;5
+Longobardi;5;A;MAT;Tec. Meccaniche;4
+Luzzi;5;B;SSS;Religione;1
+Macchia Nicoletta;1;B;AFM;INGLESE;3
+Macchia Nicoletta;4;A;AFM;INGLESE;3
+Macchia Nicoletta;4;A;SSS;Inglese;2
+Magi;3;A;SSS;Tedesco;2
+Magi;3;B;SSS;Tedesco;2
+Magi;3;C;SSS;Tedesco;2
+Magi;4;A;SSS;Tedesco;2
+Magi;4;B;SSS;Tedesco;2
+Magi;5;A;SSS;Tedesco;2
+Magi;5;B;SSS;Tedesco;2
+Manni Massimiliano;3;A;INFO;TPSIT;3
+Manni Massimiliano;4;A;INFO;SISTEMI;4
+Manni Massimiliano;4;A;INFO;TPSIT;3
+Manni Massimiliano;5;A;INFO;SISTEMI;4
+Manni Massimiliano;5;B;INFO;SISTEMI;4
+Manni Roberta;2;A;AFM;DIRITTO;2
+Manni Roberta;4;A;AFM;DIRITTO;3
+Manni Roberta;4;A;AFM;ECON. POL.;2
+Manni Roberta;4;B;AFM;DIRITTO;3
+Manni Roberta;5;A;AFM;DIRITTO;3
+Manni Roberta;5;A;AFM;ECON. POL.;3
+Manni Roberta;5;A;SIA;DIRITTO;3
+Manni Roberta;5;A;SIA;ECON. POL.;2
+Mari;1;A;SSS;Italiano;3
+Mari;2;B;SSS;Italiano;3
+Mari;3;A;SSS;Italiano-Storia;6
+Mari;3;B;SSS;Italiano-Storia;6
+Marino;2;A;MAT;Lab.Tecn.eserc.;6
+Marino;3;B;MAT;Tec. Inst. e Man.;3
+Marino;3;B;MAT;Tec. Meccaniche;3
+Marino;4;A;MAT;Tec. Meccaniche;3
+Marino;4;B;MAT;Tec. Inst. e Man.;3
+Mele';1;A;MAT;Italiano;3
+Mele';2;C;SSS;Italiano;3
+Mele';3;C;SSS;Italiano-Storia;6
+Mele';4;B;SSS;Italiano-Storia;6
+Merlino;1;A;SSS;Scienze umane;3
+Merlino;1;B;SSS;Scienze umane;2
+Merlino;3;B;SSS;Psicologia;4
+Messina Guglielmina;2;A;TUR;MATEMATICA;4
+Messina Guglielmina;2;B;AFM;MATEMATICA;4
+Messina Guglielmina;2;B;TUR;MATEMATICA;4
+Messina Guglielmina;3;A;TUR;MATEMATICA;3
+Messina Guglielmina;4;A;TUR;MATEMATICA;3
+Milani Michela;2;B;AFM;ECONOMIA AZ.;2
+Milani Michela;2;B;TUR;DISC.TURISTICHE E AZ.;2
+Milani Michela;3;A;AFM;ECONOMIA AZ.;6
+Milani Michela;5;A;AFM;ECONOMIA AZ.;8
+Moiola Silvia;2;B;INFO;MATEMATICA;4
+Moiola Silvia;3;B;INFO;MATEMATICA;4
+Moiola Silvia;4;A;INFO;MATEMATICA;4
+Moiola Silvia;5;B;INFO;MATEMATICA;3
+Mostacchi;3;A;MAT;Lab.Tecn.eserc.;4
+Mostacchi;3;A;MAT;Tec. Inst. e Man.;3
+Mostacchi;3;A;MAT;Tec. Meccaniche;3
+Mostacchi;3;B;MAT;Lab.Tecn.eserc.;4
+Mostacchi;4;B;MAT;Lab.Tecn.eserc. CNC;4
+Mostacchi;5;A;MAT;Tec. Inst. e Man.;4
+Mostacchi;5;A;MAT;Tec. Meccaniche;2
+Nappi Armando;1;A;AFM;SCIENZE;2
+Nappi Armando;1;A;TUR;SCIENZE;2
+Nappi Armando;1;B;AFM;SCIENZE;2
+Nappi Armando;2;A;AFM;SCIENZE;2
+Nappi Armando;2;A;TUR;CHIMICA;2
+Nappi Armando;2;A;TUR;SCIENZE;2
+Nappi Armando;2;B;AFM;SCIENZE;2
+Nappi Armando;2;B;TUR;CHIMICA;2
+Nappi Armando;2;B;TUR;SCIENZE;2
+Naschini Dafne;1;A;CAT;DIRITTO;2
+Naschini Dafne;1;B;AFM;DIRITTO;2
+Naschini Dafne;2;A;CAT;DIRITTO;2
+Naschini Dafne;2;A;INFO;DIRITTO;2
+Naschini Dafne;2;B;AFM;DIRITTO;2
+Naschini Dafne;2;B;INFO;DIRITTO;2
+Naschini Dafne;3;A;SIA;DIRITTO;3
+Naschini Dafne;3;A;SIA;ECON. POL.;3
+Novellino;1;A;MAT;Storia;2
+Novellino;1;A;SSS;Storia;2
+Novellino;2;C;SSS;Storia;2
+Novellino;4;A;SSS;Italiano-Storia;6
+Novellino;5;B;SSS;Italiano-Storia;6
+Nucifora Simon;3;A;INFO;SISTEMI;2
+Nucifora Simon;3;B;INFO;INFORMATICA;3
+Nucifora Simon;3;B;INFO;SISTEMI;2
+Nucifora Simon;3;B;INFO;TPSIT;1
+Nucifora Simon;4;A;INFO;SISTEMI;4
+Nucifora Simon;4;A;INFO;TPSIT;2
+Nucifora Simon;5;A;INFO;SISTEMI;3
+Nucifora Simon;5;B;INFO;SISTEMI;3
+Occhiuto Francesco;1;A;MAT;Tec. inf. com.;2
+Occhiuto Francesco;2;A;MAT;Tec. inf. com.;2
+Occhiuto Francesco;3;A;INFO;TELECOMUNICAZIONI;2
+Occhiuto Francesco;3;B;INFO;TELECOMUNICAZIONI;2
+Occhiuto Francesco;4;A;INFO;TELECOMUNICAZIONI;4
+Occhiuto Francesco;4;A;MAT;Tec.elettriche;3
+Occhiuto Francesco;5;A;MAT;Tec.elettriche;3
+Olivo Gianmaria;1;A;SSS;Tec. inf. com.;2
+Olivo Gianmaria;1;B;SSS;Tec. inf. com.;2
+Olivo Gianmaria;2;A;SSS;Tec. inf. com.;2
+Olivo Gianmaria;2;B;SSS;Tec. inf. com.;2
+Olivo Gianmaria;2;C;SSS;Tec. inf. com.;2
+Ordinana Tortosa Maria;3;A;TUR;SPAGNOLO;3
+Ordinana Tortosa Maria;3;B;TUR;SPAGNOLO;3
+Ordinana Tortosa Maria;4;A;TUR;SPAGNOLO;3
+Ordinana Tortosa Maria;4;B;TUR;SPAGNOLO;3
+Ordinana Tortosa Maria;5;A;TUR;SPAGNOLO;3
+Pace Roberto;1;A;AFM;DIRITTO;2
+Pace Roberto;1;A;TUR;DIRITTO;2
+Pace Roberto;1;B;TUR;DIRITTO;2
+Pace Roberto;2;A;TUR;DIRITTO;2
+Pace Roberto;2;B;TUR;DIRITTO;2
+Pace Roberto;3;A;TUR;DIRITTO;3
+Pace Roberto;4;A;SIA;DIRITTO;3
+Pace Roberto;4;A;SIA;ECON. POL.;2
+Panizza Aurora;1;A;CAT;CHIMICA;3
+Panizza Aurora;1;A;INFO;CHIMICA;3
+Panizza Aurora;2;A;AFM;CHIMICA;2
+Panizza Aurora;2;A;CAT;CHIMICA;3
+Panizza Aurora;2;A;INFO;CHIMICA;3
+Panizza Aurora;2;B;AFM;CHIMICA;2
+Panizza Aurora;2;B;INFO;CHIMICA;3
+Passador Mario;1;A;CAT;FISICA;3
+Passador Mario;1;A;MAT;Scienze-Chimica;2
+Passador Mario;1;A;MAT;Scienze-Fisica;2
+Passador Mario;1;A;SSS;Scienze integrate;2
+Passador Mario;1;B;SSS;Scienze integrate;2
+Passador Mario;2;A;MAT;Scienze-Chimica;2
+Passador Mario;2;A;MAT;Scienze-Fisica;2
+Passador Mario;2;A;SSS;Scienze integrate;2
+Passador Mario;2;B;SSS;Scienze integrate;2
+Passador Mario;2;C;SSS;Scienze integrate;2
+Petrelli Tiziano;2;A;INFO;TEC. RAPPR.GRAFICA;3
+Petrelli Tiziano;4;A;CAT;PROG.COST.IMP.;6
+Petrelli Tiziano;5;A;CAT;PROG.COST.IMP.;7
+Petretti;1;A;SSS;Matematica;4
+Petretti;1;B;SSS;Matematica;4
+Petretti;2;B;SSS;Matematica;4
+Petretti;3;B;SSS;Matematica;3
+Petretti;5;A;SSS;Matematica;3
+Pezzini;2;A;MAT;Italiano;3
+Pezzini;3;A;MAT;Italiano-Storia;6
+Pezzini;4;A;MAT;Italiano-Storia;6
+Pezzini;5;A;MAT;Italiano-Storia;6
+Piacentino Loredana;1;B;AFM;ITALIANO;4
+Piacentino Loredana;1;B;SSS;Italiano-Storia;5
+Piacentino Loredana;2;A;MAT;Storia;2
+Piacentino Loredana;2;A;SSS;Italiano-Storia;5
+Piacentino Loredana;2;B;SSS;Storia;2
+Piasini Ivan;3;A;INFO;INFORMATICA;6
+Piasini Ivan;3;B;INFO;INFORMATICA;6
+Piasini Ivan;5;A;INFO;GPOI;3
+Piasini Ivan;5;B;INFO;GPOI;3
+Piazzese Placido;2;A;CAT;TEC. RAPPR.GRAFICA;3
+Piazzese Placido;3;A;CAT;TOPOGRAFIA;4
+Piazzese Placido;4;A;CAT;TOPOGRAFIA;4
+Piazzese Placido;5;A;CAT;TOPOGRAFIA;4
+Piccoli Gregorio;1;A;CAT;Fondamenti prog. edilizia;2
+Piccoli Gregorio;1;A;MAT;Lab.Tecn.eserc.;6
+Piccoli Gregorio;1;A;MAT;Tecn.rappr.grafica;2
+Piccoli Gregorio;2;A;CAT;TEC. RAPPR.GRAFICA;1
+Piccoli Gregorio;2;A;INFO;TEC. RAPPR.GRAFICA;1
+Piccoli Gregorio;2;A;MAT;Tecn.rappr.grafica;2
+Piccoli Gregorio;2;B;INFO;TEC. RAPPR.GRAFICA;1
+Piccoli Gregorio;4;B;MAT;Tec. Meccaniche;3
+Pienzi Francesca;1;A;AFM;TEDESCO;3
+Pienzi Francesca;1;A;TUR;TEDESCO;3
+Pienzi Francesca;2;B;TUR;TEDESCO;3
+Pienzi Francesca;3;A;TUR;TEDESCO;3
+Pienzi Francesca;4;A;AFM;TEDESCO;3
+Pienzi Francesca;4;B;AFM;TEDESCO;3
+Pienzi Francesca;5;A;AFM;TEDESCO;3
+Pitzalis Eraldo;3;A;SIA;ECONOMIA AZ.;4
+Pitzalis Eraldo;4;A;AFM;ECONOMIA AZ.;7
+Pitzalis Eraldo;4;A;SIA;ECONOMIA AZ.;7
+Pontiggia;3;A;SSS;Matematica;3
+Pontiggia;4;A;MAT;Matematica;3
+Pontiggia;4;B;MAT;Matematica;3
+Pontiggia;4;B;SSS;Matematica;3
+Pontiggia;5;A;MAT;Matematica;3
+Pontiggia;5;B;SSS;Matematica;3
+Rapella Lucia;1;A;INFO;MATEMATICA;4
+Rapella Lucia;2;A;INFO;MATEMATICA;4
+Rapella Lucia;3;A;INFO;MATEMATICA;4
+Rapella Lucia;3;A;MAT;Tec. Inst. e Man.;4
+Rapella Lucia;3;B;MAT;Tec. Inst. e Man.;4
+Rapella Lucia;3;B;MAT;Tec. Meccaniche;5
+Rapella Lucia;4;A;MAT;Tec. Meccaniche;5
+Rapella Lucia;5;A;CAT;MATEMATICA;3
+Rapella Lucia;5;A;INFO;MATEMATICA;3
+Reale;1;A;SSS;Metod.operative;5
+Reale;1;A;SSS;Scienze umane;2
+Reale;2;A;SSS;Metod.operative;4
+Reale;2;A;SSS;Scienze umane;2
+Reale;3;A;SSS;Metod.operative;3
+Reale;5;B;SSS;Metod.operative;2
+Rignanese Michele;3;A;CAT;CANTIERE;1
+Rignanese Michele;3;A;CAT;TOPOGRAFIA;2
+Rignanese Michele;4;A;CAT;CANTIERE;1
+Rignanese Michele;4;A;CAT;TOPOGRAFIA;2
+Rignanese Michele;5;A;CAT;CANTIERE;1
+Rignanese Michele;5;A;CAT;TOPOGRAFIA;2
+Rigoldi Massimo;1;A;AFM;IRC;1
+Rigoldi Massimo;1;A;TUR;IRC;1
+Rigoldi Massimo;1;B;AFM;IRC;1
+Rigoldi Massimo;1;B;TUR;IRC;1
+Rigoldi Massimo;2;A;AFM;IRC;1
+Rigoldi Massimo;2;A;TUR;IRC;1
+Rigoldi Massimo;2;B;TUR;IRC;1
+Rigoldi Massimo;3;A;INFO;IRC;1
+Rigoldi Massimo;3;A;TUR;IRC;1
+Rigoldi Massimo;3;B;TUR;IRC;1
+Rigoldi Massimo;4;A;TUR;IRC;1
+Rigoldi Massimo;4;B;TUR;IRC;1
+Rigoldi Massimo;5;A;TUR;IRC;1
+Rizzi Gabriele;1;A;CAT;MATEMATICA;4
+Rizzi Gabriele;2;A;CAT;MATEMATICA;4
+Rizzi Gabriele;3;A;CAT;MATEMATICA;4
+Rizzi Gabriele;3;A;SIA;MATEMATICA;3
+Rizzi Gabriele;4;A;CAT;MATEMATICA;4
+Rizzi Massimo;3;A;SIA;ECONOMIA AZ.;1
+Rizzi Massimo;4;A;SIA;ECONOMIA AZ.;1
+Ronconi;1;A;MAT;Scienze motorie;2
+Ronconi;1;B;SSS;Tecnica dello sport;2
+Ronconi;2;B;SSS;Tecnica dello sport;2
+Ronconi;3;B;SSS;Scienze motorie;2
+Ronconi;3;B;SSS;Tecnica dello sport;2
+Ronconi;4;B;SSS;Scienze motorie;2
+Ronconi;4;B;SSS;Tecnica dello sport;2
+Ronconi;5;B;SSS;Scienze motorie;2
+Ronconi;5;B;SSS;Tecnica dello sport;2
+Rossi Raffaela;2;A;TUR;INGLESE;3
+Rossi Raffaela;3;A;TUR;INGLESE;3
+Rossi Raffaela;5;A;AFM;INGLESE;3
+Rossi Raffaela;5;A;SIA;INGLESE;3
+Russello Salvatore;1;A;INFO;TEC. RAPPR.GRAFICA;3
+Russello Salvatore;3;A;CAT;CANTIERE;2
+Russello Salvatore;4;A;CAT;CANTIERE;2
+Russello Salvatore;5;A;CAT;CANTIERE;2
+Russo Francesco;1;A;CAT;SCIENZE MOTORIE;2
+Russo Francesco;2;A;CAT;SCIENZE MOTORIE;2
+Russo Francesco;2;B;INFO;SCIENZE MOTORIE;2
+Russo Francesco;3;A;CAT;SCIENZE MOTORIE;2
+Russo Francesco;3;B;INFO;SCIENZE MOTORIE;2
+Russo Francesco;4;A;AFM;SCIENZE MOTORIE;2
+Russo Francesco;4;A;CAT;SCIENZE MOTORIE;2
+Russo Francesco;5;A;CAT;SCIENZE MOTORIE;2
+Russo Francesco;5;B;INFO;SCIENZE MOTORIE;2
+Russomando Simona;2;B;INFO;TEC. RAPPR.GRAFICA;3
+Salandi;1;B;SSS;Metod.operative;4
+Salandi;1;B;SSS;Scienze umane;2
+Salandi;1;B;SSS;Tecnica dello sport;1
+Salandi;3;B;SSS;Metod.operative;3
+Salandi;3;C;SSS;Metod.operative;3
+Salera;3;B;MAT;Italiano-Storia;6
+Salera;4;B;MAT;Italiano-Storia;6
+Salera;5;A;SSS;Italiano-Storia;6
+Salvati Linuccia;3;B;TUR;MATEMATICA;3
+Salvati Linuccia;4;A;AFM;MATEMATICA;3
+Salvati Linuccia;4;B;TUR;MATEMATICA;3
+Salvati Linuccia;5;A;AFM;MATEMATICA;3
+Salvati Linuccia;5;A;SIA;MATEMATICA;3
+Sassella;4;A;MAT;Lab.Tecn.eserc. CNC;4
+Sassella;4;A;MAT;Tec. Inst. e Man.;3
+Sassella;5;A;MAT;Lab.Tecn.eserc. CNC;5
+Sciarrino;1;A;MAT;Tecn.rappr.grafica;2
+Sciarrino;2;A;MAT;Tecn.rappr.grafica;2
+Sciarrino;3;A;MAT;Tec. Meccaniche;5
+Sciarrino;4;B;MAT;Tec. Inst. e Man.;5
+Scinetti Mattia;1;A;INFO;SCIENZE E TEC. APPL.;4
+Scinetti Mattia;2;A;INFO;SCIENZE E TEC. APPL.;3
+Scinetti Mattia;2;B;INFO;SCIENZE E TEC. APPL.;3
+Scinetti Mattia;5;A;INFO;TPSIT;4
+Scinetti Mattia;5;B;INFO;TPSIT;4
+Simplicio Tiziana;4;A;INFO;ITALIANO;6
+Simplicio Tiziana;4;A;SIA;ITALIANO;6
+Simplicio Tiziana;5;A;TUR;ITALIANO;6
+Sorcecchi;1;A;MAT;Geografia;1
+Sorcecchi;1;A;SSS;Geografia;1
+Sorcecchi;1;B;SSS;Geografia;1
+Sorcecchi;2;A;MAT;Geografia;1
+Sorcecchi;2;A;SSS;Geografia;1
+Sorcecchi;2;B;SSS;Geografia;1
+Sorcecchi;2;C;SSS;Geografia;1
+Sorrentino Salvatrice;3;A;AFM;DIRITTO;3
+Sorrentino Salvatrice;3;A;AFM;ECON. POL.;3
+Sorrentino Salvatrice;3;B;TUR;DIRITTO;3
+Sorrentino Salvatrice;4;A;TUR;DIRITTO;3
+Sorrentino Salvatrice;4;B;TUR;DIRITTO;3
+Sorrentino Salvatrice;5;A;TUR;DIRITTO;3
+Sottocornola Ottavia;1;A;CAT;IRC;1
+Sottocornola Ottavia;1;A;INFO;IRC;1
+Sottocornola Ottavia;2;A;CAT;IRC;1
+Sottocornola Ottavia;2;A;INFO;IRC;1
+Sottocornola Ottavia;2;B;AFM;IRC;1
+Sottocornola Ottavia;2;B;INFO;IRC;1
+Sottocornola Ottavia;3;A;AFM;IRC;1
+Sottocornola Ottavia;3;A;CAT;IRC;1
+Sottocornola Ottavia;3;A;SIA;IRC;1
+Sottocornola Ottavia;3;B;INFO;IRC;1
+Sottocornola Ottavia;4;A;AFM;IRC;1
+Sottocornola Ottavia;4;A;CAT;IRC;1
+Sottocornola Ottavia;4;A;INFO;IRC;1
+Sottocornola Ottavia;4;A;SIA;IRC;1
+Sottocornola Ottavia;4;B;AFM;IRC;1
+Sottocornola Ottavia;5;A;AFM;IRC;1
+Sottocornola Ottavia;5;A;CAT;IRC;1
+Sottocornola Ottavia;5;A;INFO;IRC;1
+Sottocornola Ottavia;5;A;SIA;IRC;1
+Sottocornola Ottavia;5;B;INFO;IRC;1
+Speziale Ettore;1;A;AFM;MATEMATICA;4
+Speziale Ettore;1;A;MAT;Inglese;3
+Speziale Ettore;1;B;AFM;MATEMATICA;4
+Speziale Ettore;2;A;AFM;MATEMATICA;4
+Speziale Ettore;2;A;MAT;Inglese;3
+Speziale Ettore;2;B;SSS;Inglese;3
+Speziale Ettore;3;A;AFM;MATEMATICA;3
+Speziale Ettore;3;A;MAT;Inglese;2
+Speziale Ettore;3;B;SSS;Inglese;2
+Speziale Ettore;4;A;MAT;Inglese;2
+Speziale Ettore;4;B;AFM;MATEMATICA;3
+Speziale Ettore;5;A;MAT;Inglese;2
+Tarabini;4;A;SSS;Diritto, economia e tecnica amministrativa;5
+Tarabini;4;B;SSS;Diritto, economia e tecnica amministrativa;4
+Tarabini;5;A;SSS;Diritto, economia e tecnica amministrativa;5
+Tarabini;5;B;SSS;Diritto, economia e tecnica amministrativa;4
+Toscano Giuseppina;1;A;TUR;DISC.TURISTICHE E AZ.;2
+Toscano Giuseppina;1;B;AFM;ECONOMIA AZ.;2
+Toscano Giuseppina;1;B;TUR;DISC.TURISTICHE E AZ.;2
+Toscano Giuseppina;3;A;SSS;Diritto, economia e tecnica amministrativa;3
+Toscano Giuseppina;3;B;SSS;Diritto, economia e tecnica amministrativa;3
+Toscano Giuseppina;3;B;TUR;DISC.TURISTICHE E AZ.;4
+Toscano Giuseppina;3;C;SSS;Diritto, economia e tecnica amministrativa;3
+Tumminello Mariaconcetta;3;A;AFM;INFORMATICA;2
+Tumminello Mariaconcetta;3;A;SIA;INFORMATICA;4
+Tumminello Mariaconcetta;4;A;AFM;INFORMATICA;2
+Tumminello Mariaconcetta;4;A;SIA;INFORMATICA;5
+Tumminello Mariaconcetta;5;A;SIA;INFORMATICA;5
+Valbuzzi;4;B;SSS;Igiene;4
+Vaninetti Alessandra;2;A;TUR;ITALIANO;6
+Vaninetti Alessandra;5;A;AFM;ITALIANO;6
+Vaninetti Alessandra;5;A;SIA;ITALIANO;6
+Varcasia Franca;1;A;AFM;GEOGRAFIA;3
+Varcasia Franca;1;A;CAT;GEOGRAFIA;1
+Varcasia Franca;1;A;INFO;GEOGRAFIA;1
+Varcasia Franca;1;B;TUR;GEOGRAFIA;3
+Varcasia Franca;2;A;AFM;GEOGRAFIA;3
+Varcasia Franca;2;B;TUR;GEOGRAFIA;3
+Varcasia Franca;3;B;TUR;GEOGRAFIA;2
+Varcasia Franca;4;B;TUR;GEOGRAFIA;2
+Veljkovic;2;B;SSS;Scienze umane;3
+Veljkovic;2;C;SSS;Scienze umane;3
+Vignati Lorenzo;1;A;INFO;FISICA;3
+Vignati Lorenzo;1;B;TUR;FISICA;2
+Visioli;2;B;SSS;Metod.operative;3
+Visioli;2;B;SSS;Scienze umane;2
+Visioli;2;B;SSS;Tecnica dello sport;1
+Visioli;2;C;SSS;Metod.operative;3
+Visioli;2;C;SSS;Scienze umane;2
+Visioli;2;C;SSS;Tecnica dello sport;1
+Visioli;4;A;SSS;Metod.operative;2
+Visioli;4;B;SSS;Metod.operative;2
+Visioli;5;A;SSS;Metod.operative;2
+Vullo;1;A;SSS;Inglese;3
+Vullo;2;A;SSS;Inglese;3
+Vullo;3;A;SSS;Inglese;2
+Vullo;3;B;MAT;Inglese;2
+Vullo;3;C;SSS;Inglese;2
+Vullo;4;B;MAT;Inglese;2
+Vullo;4;B;SSS;Inglese;2
+Vullo;5;B;SSS;Inglese;2

@@ -1,0 +1,175 @@
+
+/*  MainView    */
+.generaorariodocenti-button {
+    -fx-background-color: #3498db;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.generaorariodocenti-button:hover {
+    -fx-background-color: #2980b9;
+}
+
+.generaorariodocenti-button:pressed {
+    -fx-background-color: #1c5980;
+}
+
+.generaorarioclassi-button {
+    -fx-background-color: #db7f34;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.generaorarioclassi-button:hover {
+    -fx-background-color: #88551e;
+}
+
+.generaorarioclassi-button:pressed {
+    -fx-background-color: #6a3b0a;
+}
+
+.sceglifile-button {
+    -fx-background-color: #f1c40f;
+    -fx-text-fill: #1e1e1e;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.sceglifile-button:hover {
+    -fx-background-color: #d4ac0d;
+}
+
+.sceglifile-button:pressed {
+    -fx-background-color: #b7950b;
+}
+
+.modificavincoli-button {
+    -fx-background-color: #27ae60;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.modificavincoli-button:hover {
+    -fx-background-color: #219653;
+}
+
+.modificavincoli-button:pressed {
+    -fx-background-color: #196f3d;
+}
+
+/*  OrarioView  */
+.cella-header {
+    -fx-background-color: #434850;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-font-size: 13px;
+    -fx-background-radius: 5px;
+    -fx-border-color: #585d66;
+    -fx-border-radius: 5px;
+}
+
+.cella-ora {
+    -fx-background-color: #36393f;
+    -fx-text-fill: #b9bbbe;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+    -fx-background-radius: 5px;
+    -fx-border-color: #484b51;
+    -fx-border-radius: 5px;
+}
+
+.cella-lezione {
+    -fx-background-color: #1e477a;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 11px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5px;
+    -fx-border-color: #3371ba;
+    -fx-border-radius: 5px;
+}
+
+/* Colori Materie personalizzati */
+.materia-matematica {
+    -fx-background-color: #0077c2;
+    -fx-border-color: #33aaff;
+}
+
+.materia-italiano {
+    -fx-background-color: #c0392b;
+    -fx-border-color: #e74c3c;
+}
+
+.materia-storia {
+    -fx-background-color: #d35400;
+    -fx-border-color: #e67e22;
+}
+
+.materia-biologia {
+    -fx-background-color: #27ae60;
+    -fx-border-color: #2ecc71;
+}
+
+.materia-geografia {
+    -fx-background-color: #0288d1;
+    -fx-border-color: #29b6f6;
+}
+
+.materia-inglese {
+    -fx-background-color: #2c3e6b;
+    -fx-border-color: #415b9b;
+}
+
+.materia-diritto {
+    -fx-background-color: #c46210;
+    -fx-border-color: #e67e22;
+}
+
+.materia-chimica {
+    -fx-background-color: #8e44ad;
+    -fx-border-color: #a569bd;
+}
+
+.materia-fisica {
+    -fx-background-color: #00838f;
+    -fx-border-color: #00acc1;
+}
+
+.materia-informatica {
+    -fx-background-color: #00695c;
+    -fx-border-color: #00897b;
+}
+
+.materia-motoria {
+    -fx-background-color: #2e7d32;
+    -fx-border-color: #43a047;
+}
+
+.materia-religione {
+    -fx-background-color: #8d6e19;
+    -fx-border-color: #b7950b;
+}
+
+.materia-lingue {
+    -fx-background-color: #5c6bc0;
+    -fx-border-color: #7986cb;
+}
+
+.materia-tecnica {
+    -fx-background-color: #4f5b66;
+    -fx-border-color: #65737e;
+}
+
+.cella-libera {
+    -fx-background-color: #22252a;
+    -fx-text-fill: #686d76;
+    -fx-background-radius: 5px;
+    -fx-border-color: #2e3238;
+    -fx-border-radius: 5px;
+}
